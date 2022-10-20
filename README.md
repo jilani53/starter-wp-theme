@@ -1,4 +1,4 @@
-=== stater ===
+=== Stater ===
 
 Contributors: Jilani Ahmed
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
