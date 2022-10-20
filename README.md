@@ -41,27 +41,9 @@ Stater is distributed under the terms of the GNU GPLv2 or later
 * Bootstrap, http://getbootstrap.com/
 * Copyright 2011-2015 Twitter, Inc, MIT License, http://www.opensource.org/licenses/MIT
 
-* Masonry, https://masonry.desandro.com/
-* Copyright © 2022 David DeSandro,
-* Code licensed under MIT License, https://desandro.mit-license.org/
-
-* smooth-scroll, https://github.com/cferdinandi/smooth-scroll
-* Copyright (c) Go Make Things, LLC
-* https://github.com/cferdinandi/smooth-scroll/blob/master/LICENSE.md
-
-* imagesLoaded, https://imagesloaded.desandro.com/
-* Copyright © 2022 David DeSandro
-* https://desandro.mit-license.org/
-
 * WP Bootstrap Navwalker, https://github.com/wp-bootstrap/wp-bootstrap-navwalker
 * Edward McIntyre - @twittem, WP Bootstrap, William Patton - @pattonwebz
 * https://www.gnu.org/licenses/gpl-3.0.txt
-
-= Screenshot Images =
-
-* Hero Section
-* License: https://undraw.co/license
-* Source:  https://pxhere.com/en/photo/45145
 
 = Technology =
 
