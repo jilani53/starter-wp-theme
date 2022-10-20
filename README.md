@@ -10,7 +10,7 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Stater is a single and multiple niche blog theme with light and dark modes. It is a very lightweight, semantic elements base SEO friendly WordPress blog theme. It has also an ajax category filter with pagination and a very popular post masonry style.
+The Starter WP Theme is a complete package tested by the WordPress unit test content and theme check plugin.
 
 Description
 
